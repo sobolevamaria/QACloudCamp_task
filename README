@@ -1,0 +1,12 @@
+# setup
+
+python3
+
+`pip3 install requests`
+`pip3 install pytest`
+`pip3 install jsonschema`
+
+# run
+
+`export BASE_URL=https://jsonplaceholder.typicode.com`
+`pytest ./test.py`
